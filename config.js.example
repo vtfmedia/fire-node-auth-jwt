@@ -1,0 +1,6 @@
+module.exports = {
+  AUTH0_DOMAIN: 'firebase-node-server.auth0.com', // e.g., you.auth0.com
+  AUTH0_API_AUDIENCE: 'http://localhost:1337/', // e.g., http://localhost:1337/
+  FIREBASE_KEY: './node-dcd1f-firebase-adminsdk-4hd5i-280ae7307f.json', // e.g., your-project-firebase-adminsdk-xxxxx-xxxxxxxxxx.json
+  FIREBASE_DB: 'node-dcd1f.firebaseio.com' // e.g., https://your-project.firebaseio.com
+};
